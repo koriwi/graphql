@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@apollo/federation": "0.29.0",
-    "@apollo/gateway": "0.38.0",
+    "@apollo/gateway": "0.42.3",
     "@commitlint/cli": "13.1.0",
     "@commitlint/config-angular": "13.1.0",
     "@nestjs/common": "8.0.6",
